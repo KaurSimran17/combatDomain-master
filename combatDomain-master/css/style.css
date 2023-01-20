@@ -3252,3 +3252,8 @@ form.edit_profile {
 .add.total {
     width: 60%;
 }
+
+.filters button{
+    background: transparent;
+    border: none;
+}
