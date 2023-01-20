@@ -3228,6 +3228,14 @@ select.eventCalender {
 .add.total {
     width: 50%;
 }
+/* #active {
+    background-color: #B42025;
+    font-size: 0.9rem;
+}
+#retired {
+    background-color: #968A8A;
+    font-size: 0.9rem;
+} */
 /* .right-box-right {
     height: 100%;
     width: 21%;
